@@ -10,5 +10,6 @@
 </div>
 
 <div align="center"> 
-  <img src="https://activity-graph.herokuapp.com/graph?username=luzhe0359&hide_title=true&hide_border=true&color=42b983&bg_color=273849&line=42b983&theme=react-dark" /> 
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=luzhe0359&hide_title=true&hide_border=true&color=42b983&bg_color=273849&line=42b983&theme=react-dark" /> 
+
 </div>
